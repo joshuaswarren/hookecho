@@ -162,3 +162,7 @@ development, and testing.
 ## License
 
 HookEcho is free and open source under the [MIT License](LICENSE).
+
+## Contributors
+
+Everyone credited so far: [CONTRIBUTORS.md](CONTRIBUTORS.md).
